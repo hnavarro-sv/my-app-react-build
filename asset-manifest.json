@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.525d2714.chunk.css",
-    "main.js": "/static/js/main.eb37afe6.chunk.js",
-    "main.js.map": "/static/js/main.eb37afe6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0e8dde55.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0e8dde55.js.map",
-    "static/js/2.e99a43f3.chunk.js": "/static/js/2.e99a43f3.chunk.js",
-    "static/js/2.e99a43f3.chunk.js.map": "/static/js/2.e99a43f3.chunk.js.map",
-    "static/js/3.2f212ff8.chunk.js": "/static/js/3.2f212ff8.chunk.js",
-    "static/js/3.2f212ff8.chunk.js.map": "/static/js/3.2f212ff8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.525d2714.chunk.css.map": "/static/css/main.525d2714.chunk.css.map",
-    "static/js/2.e99a43f3.chunk.js.LICENSE.txt": "/static/js/2.e99a43f3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/my-app-react-build/static/css/main.525d2714.chunk.css",
+    "main.js": "/my-app-react-build/static/js/main.2ed6395b.chunk.js",
+    "main.js.map": "/my-app-react-build/static/js/main.2ed6395b.chunk.js.map",
+    "runtime-main.js": "/my-app-react-build/static/js/runtime-main.4d99e2cf.js",
+    "runtime-main.js.map": "/my-app-react-build/static/js/runtime-main.4d99e2cf.js.map",
+    "static/js/2.b7ec6d0d.chunk.js": "/my-app-react-build/static/js/2.b7ec6d0d.chunk.js",
+    "static/js/2.b7ec6d0d.chunk.js.map": "/my-app-react-build/static/js/2.b7ec6d0d.chunk.js.map",
+    "static/js/3.332d4683.chunk.js": "/my-app-react-build/static/js/3.332d4683.chunk.js",
+    "static/js/3.332d4683.chunk.js.map": "/my-app-react-build/static/js/3.332d4683.chunk.js.map",
+    "index.html": "/my-app-react-build/index.html",
+    "static/css/main.525d2714.chunk.css.map": "/my-app-react-build/static/css/main.525d2714.chunk.css.map",
+    "static/js/2.b7ec6d0d.chunk.js.LICENSE.txt": "/my-app-react-build/static/js/2.b7ec6d0d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-app-react-build/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e8dde55.js",
-    "static/js/2.e99a43f3.chunk.js",
+    "static/js/runtime-main.4d99e2cf.js",
+    "static/js/2.b7ec6d0d.chunk.js",
     "static/css/main.525d2714.chunk.css",
-    "static/js/main.eb37afe6.chunk.js"
+    "static/js/main.2ed6395b.chunk.js"
   ]
 }
